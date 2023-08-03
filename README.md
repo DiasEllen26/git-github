@@ -1,4 +1,3 @@
-# Git e GitHub
+## Estudos Git e GitHub📚🎓
 
-## Sobre: 
-Repositório utilizado na matéria de Técnologias emergentes, na faculdade UniAlfa 4° período de Sistemas para internet. 
+Bem-vindo ao meu repositório de estudos de Git e GitHub! Aqui estão todos os materiais e exercícios relacionados aos meus estudos no quarto semestre da faculdade na faculdade de Sistemas para Internet. Vamos aprimorar nossas habilidades em versionamentos! 💪😄
